@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=Hello🐣&fontColor=8fc8db&fontAlign=50)
 
 ------
-# Language✏
+# 📚TECH STACKS
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
