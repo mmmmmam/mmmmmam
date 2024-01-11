@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **mmmmmam/mmmmmam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Hello🐣&fontColor=9dd88f&fontAlign=60)
+
+------
+# Language✏
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
